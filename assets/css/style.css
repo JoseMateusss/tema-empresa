@@ -1,0 +1,124 @@
+ #contact{
+      background-image:linear-gradient(#25a3d1,#1c5f88);
+    }
+    h2.mt-0{
+      color: #fff;
+    }
+    .text-muted{
+      color: #fff;
+    }
+    div.texto-rodape{
+      text-align: center;
+      color:#1c5f88;
+    }
+    a.d-block{
+      color: #fff;
+    }
+    .cont-num{
+      color: #fff;
+    }
+   .btn-efeitos{
+      background-color: #F8F8FF;
+      border: none;
+      box-shadow: 0 5px 0 #DCDCDC;
+   }
+
+   .btn-efeitos:hover{
+      background-color: #fff;
+      border: none;
+      box-shadow: 0 5px 0 #DCDCDC;
+   }
+
+   .btn-efeitos:active{
+      position: relative;
+      top: 5px;
+      border: none;
+      box-shadow:none;
+   }
+   .shadow-card{
+      box-shadow: 7px 5px 0  #F8F8FF;
+   }
+
+   .card{
+      min-height: 300px;
+      margin-height:300px;
+      min-width: 300px;
+      max-width: 300px;
+   }
+   .card-img-top{
+      min-height: 226px;
+      max-height: 226px;
+   }
+   .card-text{
+      font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+      font-size: 1rem;
+      font-weight: 400;
+    }
+   #allServices{
+      display: none;
+   }
+
+   
+  .page-section{
+    padding: 8em 0;
+  }
+
+  /* Estilizando o form */
+
+   .title-form{
+      font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+      font-size: 20px;
+      color: rgba(255,255,255,1)!important;
+      font-weight: 400;
+      line-height: 1.5;
+      text-align: left;
+  }
+
+  .text-flow{
+       font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+       font-size: 18px;
+       color: rgba(255,255,255,1)!important;
+       font-weight: 400;
+       line-height: 1.5;
+       text-align: left;
+  }
+
+  .btn-l-green {
+    background-color: #01cb62;
+    color: #fff;
+    font-family: "Merriweather", sans-serif;
+    font-size: 18px;
+}
+
+.fab{
+  
+  color: #fff;
+}
+
+.icones{
+  
+  justify-content: left;
+  padding: 0 0 0 15px;
+}
+
+.fb-nav{
+    color: black !important;
+}
+
+.contact{
+  padding-bottom: 0 !important;
+}
+
+.map{
+  padding: 8em 0 0 !important;
+}
+
+ #map {
+        height: 500px;
+        width: 100%;
+  }
+.contact{
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+}
+
