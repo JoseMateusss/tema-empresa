@@ -36,24 +36,24 @@
   <a href="https://api.whatsapp.com/send?l=pt&amp;phone=558487892310" target="_blank"><img src="https://i.imgur.com/ryESuZ5.png" style="height:60px; position:fixed; bottom: 25px; right: 25px; z-index:99999;" data-selector="img"></a>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+  <nav class="navbar navbar-expand-lg navbarWhite fixed-top py-3" id="mainNav">
     <div class="container"> 
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
+      <div class="collapse navbar-collapse pt-4" id="navbarResponsive">
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Conheça-nos</a>
+            <a class="nav-link js-scroll-trigger text-uppercase" href="#about">Conheça-nos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Nossos serviços</a>
+            <a class="nav-link js-scroll-trigger text-uppercase" href="#services">Nossos serviços</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#localizacao">Localização</a>
+            <a class="nav-link js-scroll-trigger text-uppercase" href="#localizacao">Localização</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
+            <a class="nav-link js-scroll-trigger text-uppercase" href="#contact">Contato</a>
           </li>
           <li class="nav-item">
             <a href="https://www.facebook.com/lavagensaseco.2019" class="nav-link js-scroll-trigger" target="_blank"><i class="fab fa-facebook-square fa-2x fb-nav"></i></a>

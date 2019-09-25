@@ -19,6 +19,7 @@
     }
    .btn-efeitos{
       background-color: #F8F8FF;
+      color: #696969 !important;
       border: none;
       box-shadow: 0 5px 0 #DCDCDC;
    }
@@ -36,7 +37,7 @@
       box-shadow:none;
    }
    .shadow-card{
-      box-shadow: 7px 5px 0  #F8F8FF;
+      box-shadow: 7px 5px 0  #fff;
    }
 
    .card{
@@ -44,6 +45,8 @@
       margin-height:300px;
       min-width: 300px;
       max-width: 300px;
+      color:#696969;
+
    }
    .card-img-top{
       min-height: 226px;
@@ -102,7 +105,7 @@
 }
 
 .fb-nav{
-    color: black !important;
+    color: #696969 !important;
 }
 
 .contact{
@@ -122,3 +125,14 @@
   padding-left: 0 !important;
 }
 
+.navbarWhite{
+  background-color: #fff !important;
+}
+
+.nav-link{
+    color: #696969 !important;
+}
+
+.navbar-toggler-icon{
+  color:#696969 !important;
+}
