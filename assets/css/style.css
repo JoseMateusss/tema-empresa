@@ -45,7 +45,8 @@
       margin-height:300px;
       min-width: 300px;
       max-width: 300px;
-      color:#696969;
+      color: #222;
+      
 
    }
    .card-img-top{
@@ -135,4 +136,34 @@
 
 .navbar-toggler-icon{
   color:#696969 !important;
+}
+ .logo-nav{
+    width: 170px;
+ }
+
+ .title-section{
+    color: #696969 !important;
+ }
+
+ .title-meta{
+    margin-bottom: 10px !important;
+    color: #222 !important;
+ }
+ .fa-check{
+    color: #696969 !important;
+ }
+.text-meta{
+   color: #696969 !important;
+}
+
+.btn-sobre{
+  background-color: #01273A !important;
+  color: #fff !important;
+  border: 2px solid  #01273A !important;
+}
+
+.btn-sobre:hover{
+  background-color: #fff  !important;
+  color:  #01273A !important;
+  border: 2px solid  #01273A !important;
 }

@@ -16,30 +16,45 @@
   </header>  
 
   <!-- About Section -->
-  <section class="page-section bg-primary" id="about">
+  <section class="page-section" id="about">
     <div class="container">
+      <h2 class="title-section mt-0">Sobre a empresa</h2>
       <div class="row justify-content-center">
-        <div class="col-lg-8 text-center">
-          <h2 class="text-white mt-0">Sobre a empresa</h2>
-          
-          <p class="text-white-50 mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-          <a class="btn btn-efeitos btn-xl js-scroll-trigger" href="#services">Conheça nossos serviços</a>
+        <div class="col-lg-4 ">
+          <img class="img-fluid"src="<?php bloginfo('template_url');?>/assets/img/simbolo-png.png" alt="">
         </div>
+        <div class="col-lg-8 text-justify">
+          <p class="title-section mb-4">Lavagens a domicílio Silva é uma empresa que higienização e lavagens a seco que atua em Natal/RN desde o ano de 2015, Com nosso atendimento a domicílio, você cliente não precisa se preocupar em sair de casa para ser atendido. </p>
+          <div class="mt-3">
+            <h4 class="title-section title-meta">Missão:</h4>
+            <p class="ml-4 mt-3 mb-3 text-meta"><span class="mr-1"><i class="fas fa-check fa-1x"></i></span>Cumprir nossos serviços com êxito e deixar nossos clientes satisfeitos.</p>
+          </div>
+          <div class="mt-3">
+            <h4 class="title-section title-meta">Visão:</h4>
+            <p class="ml-4 mt-3 mb-3 text-meta"><span class="mr-1"><i class="fas fa-check fa-1x"></i></span>Nossa meta é continuar cresecendo cada vez mais sem perder a qualidade dos nossos serviços.</p>
+          </div>
+          <div class="mt-3">
+            <h4 class="title-meta">Valores:</h4>
+            <p class="ml-4 mt-3 mb-3  text-meta"><span class="mr-1"><i class="fas fa-check fa-1x"></i></span>Disponibilizar o melhor atendimento e comodidade aos nossos clientes. </p>
+          </div>
+         
+        </div>
+         <a class="btn btn-sobre btn-xl js-scroll-trigger mt-5" href="#services">Conheça nossos serviços</a>
       </div>
     </div>
   </section>
 
   <!-- services Section -->
-  <section id="services" class="page-section bg-primary1" >
+  <section id="services" class="page-section bg-primary" >
       <div class="container">
         <div class="row">
           <div class="col-sm-12 pb-5">
-            <h2 class="text-white mt-0">Nossos serviços</h2>
-            <p class="text-white-50">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <h2 class="title-section  mt-0">Nossos serviços</h2>
+           
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card  shadow-card" style="width: 18rem;">
-                <img src="img/ima-header.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/ima-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de estofados</p>
                 </div>
@@ -47,7 +62,7 @@
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card shadow-card" style="width: 18rem;">
-                <img src="img/cadeira.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/cadeira.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de cadeiras</p>
                 </div>
@@ -55,7 +70,7 @@
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card ml-3 shadow-card" style="width: 18rem;">
-                <img src="img/carpete.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/carpete.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de carpetes</p>
                 </div>
@@ -63,7 +78,7 @@
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card  shadow-card" style="width: 18rem;">
-                <img src="img/img-header.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/img-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de veículo completa</p>
                 </div>
@@ -71,7 +86,7 @@
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card shadow-card" style="width: 18rem;">
-                <img src="img/pintura.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/pintura.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">revitalização de pintura</p>
                 </div>
@@ -79,7 +94,7 @@
           </div>
           <div class="col-sm-4 mb-5">
              <div class="card ml-3 shadow-card" style="width: 18rem;">
-                <img src="img/farol.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/farol.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">revitalização de farois</p>
                 </div>
@@ -90,7 +105,7 @@
           <div class="row">
             <div class="col-sm-4 mb-5">
              <div class="card  shadow-card" style="width: 18rem;">
-                <img src="img/ima-header.jpg" class="card-img-top" alt="...">
+                <img src="<?php bloginfo('template_url')?>/assets/img/ima-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de estofados</p>
                 </div>
@@ -137,17 +152,17 @@
               </div>
           </div>
         </section>
-           <a class="btn btn-efeitos btn-xl js-scroll-trigger" id="showServices">Ver todos os serviços</a>
+           <a class="btn btn-sobre btn-xl js-scroll-trigger mt-5" id="showServices">Ver todos os serviços</a>
 
       </div>
     </section>
-<section class="page-section bg-primary map" id="localizacao">
+<section class="page-section bg-primary1 map" id="localizacao">
  <div id="map"></div>
     <script>
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          center:{lat:  -5.744509458350604, lng: -35.24621048569423},
+          center:{lat:  -5.7414024, lng: -35.2461628},
           zoom: 17,
           styles: [
                     {
@@ -232,16 +247,20 @@
           
         });
 
+        
+
+        var markerImage = "wp-content/themes/tema-empresa/assets/img/logoMapa.png";
         var marker = new google.maps.Marker({
-            position: {lat:  -5.744509458350604, lng: -35.24621048569423},
-            map:map
+            position:{lat:  -5.7414024, lng: -35.2461628},
+            map: map,
+            icon: markerImage
         });
 
         attachSecretMessage(marker);
 
        function attachSecretMessage(marker) {
         var infowindow = new google.maps.InfoWindow({
-          content: '<h5>Lavagens a domicílio Silva - Avenida Governador Antônio de Melo e Souza, 2139 - Potengi, Natal - RN</h5>'
+          content: '<h5>Lavagens a domicílio Silva - Rua San Marino, 30b - Pajuçara, Natal - RN</h5>'
         });
 
         marker.addListener('click', function() {

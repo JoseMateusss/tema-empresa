@@ -8,7 +8,9 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>site-empresa</title>
+  <title>Lavangens a domicílio Silva</title>
+
+  <link rel="sortcut icon" href="<?php bloginfo('template_url');?>/assets/img/simbolo-png.png" type="image/png" />
 
   <!-- Font Awesome Icons -->
   <link href="<?php bloginfo('template_url');?>/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -38,6 +40,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbarWhite fixed-top py-3" id="mainNav">
     <div class="container"> 
+      <a class="navbar-brand" href="<?php bloginfo('url'); ?>"><img class="logo-nav" src="<?php bloginfo('template_url');?>/assets/img/logomarca-png.png" alt=""></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
