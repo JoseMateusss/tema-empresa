@@ -9,7 +9,7 @@
         </div>
         <div class="col-lg-8 align-self-baseline">
           <p class="text-white-75">Serviços de higienização e lavagens a seco, contrate nossos serviços sem sair de casa, sua comodidade é a nossa prioridade.</p>
-          <a class="btn btn-efeitos btn-xl js-scroll-trigger" href="#about">Saiba Mais</a>
+          <a class="btn btn-sobre mt-4 btn-xl js-scroll-trigger" href="#about">Saiba Mais</a>
         </div>
       </div>
     </div>
@@ -24,7 +24,7 @@
           <img class="img-fluid-sobre"src="<?php bloginfo('template_url');?>/assets/img/simbolo-png.png" alt="">
         </div>
         <div class="col-lg-8 text-justify">
-          <p class="title-section p-sobre mb-4">Lavagens a domicílio Silva é uma empresa que higienização e lavagens a seco que atua em Natal/RN desde o ano de 2015, Com nosso atendimento a domicílio, você cliente não precisa se preocupar em sair de casa para ser atendido. </p>
+          <p class="title-section p-sobre mb-4">Lavagens a domicílio Silva é uma empresa de higienização e lavagens a seco que atua em Natal/RN desde o ano de 2015, Com nosso atendimento a domicílio, você cliente não precisa se preocupar em sair de casa para ser atendido. </p>
           <div class="mt-3">
             <h4 class="title-section title-meta">Missão:</h4>
             <p class="ml-4 mt-3 mb-3 text-meta"><span class="mr-1"><i class="fas fa-check fa-1x"></i></span>Cumprir nossos serviços com êxito e deixar nossos clientes satisfeitos.</p>
@@ -52,48 +52,48 @@
             <h2 class="text-white  title mt-0 text-uppercase">Nossos serviços</h2>
            
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card  shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/ima-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de estofados</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/cadeira.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de cadeiras</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card ml-3 shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/carpete.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de carpetes</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card  shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/img-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de veículo completa</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/pintura.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <p class="card-text">revitalização de pintura</p>
+                  <p class="card-text">revitalização de pintura na máquina espelhamento</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card ml-3 shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="<?php bloginfo('template_url')?>/assets/img/farol.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">revitalização de farois</p>
@@ -103,48 +103,48 @@
         </div>
         <section id="allServices">
           <div class="row">
-            <div class="col-sm-4 mb-5 div-card">
-             <div class="card  shadow-card" style="width: 18rem;">
-                <img src="<?php bloginfo('template_url')?>/assets/img/ima-header.jpg" class="card-img-top" alt="...">
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
+                <img src="<?php bloginfo('template_url')?>/assets/img/colchao.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <p class="card-text">Lavagem de estofados</p>
+                  <p class="card-text">Lavagem de colchões</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card shadow-card" style="width: 18rem;">
-                <img src="img/cadeira.jpg" class="card-img-top" alt="...">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card shadow-card">
+                <img src="<?php bloginfo('template_url')?>/assets/img/bebeConforto.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <p class="card-text">Lavagem de cadeiras</p>
+                  <p class="card-text">Lavagem de bebê conforto</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card ml-3 shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="img/carpete.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de carpetes</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card  shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="img/img-header.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Lavagem de veículo completa</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card shadow-card">
                 <img src="img/pintura.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <p class="card-text">revitalização de pintura</p>
+                  <p class="card-text">revitalização de pintura na máquina espelhamento</p>
                 </div>
               </div>
           </div>
-          <div class="col-sm-4 mb-5 div-card">
-             <div class="card ml-3 shadow-card" style="width: 18rem;">
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-5 div-card">
+             <div class="card  shadow-card">
                 <img src="img/farol.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">revitalização de farois</p>
@@ -248,13 +248,9 @@
         });
 
         
-
-        var markerImage = "wp-content/themes/tema-empresa/assets/img/logoMapa.png";
-        var marker = new google.maps.Marker({
-            position:{lat:  -5.7414024, lng: -35.2461628},
-            map: map,
-            icon: markerImage
-        });
+        
+        var marker = new google.maps.Marker({position:{lat:  -5.7414024, lng: -35.2461628} , map: map});
+        
 
         attachSecretMessage(marker);
 
@@ -280,7 +276,7 @@
         <div class="container" id="contact">
          <div class="row justify-content-center py-5" >
             <div class="col-sm-12 text-center">
-              <h2 class="text-white mt-0">Fale conosco</h2>
+              <h2 class="text-white title mt-0">Fale conosco</h2>
               
             </div>
 
@@ -288,10 +284,10 @@
 
                 
                 <div class="col-lg-6 col-sm-12 contact">
-                  <div class="title-form mt-lg-0 mt-sm-2">Parece que você está interessado nos nossos serviços. Obrigado por considerar nossa empresa!</div>
+                  <div class="title-form mt-lg-0 mt-sm-2 text-contato">Parece que você está interessado nos nossos serviços. Obrigado por considerar nossa empresa!</div>
                   <div class="text-flow">
                     <br>
-                    <p class="text-flow">Se pudermos ajudar você com alguma coisa, é só entrar em contato através deste formulário, ou em qualquer uma de nossas redes sociais através dos links:</p> 
+                    <p class="text-flow text-contato">Se pudermos ajudar você com alguma coisa, é só entrar em contato através deste formulário, ou em qualquer uma de nossas redes sociais através dos links:</p> 
                     <br>
                   </div>
                   <div class="row mb-3 icones">
@@ -340,7 +336,7 @@
                          <textarea class="form-control" id="textAreaMensagem" rows="3"></textarea>
                       </div>
 
-                      <button type="submit" class="btn btn-efeitos pl-4 pr-4 float-lg-right mt-3">Enviar</button>
+                      <button type="submit" class="btn btn-sobre pl-4 pr-4 float-lg-right mt-3">Enviar</button>
                   </form>
                    
                   
