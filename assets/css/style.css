@@ -167,3 +167,47 @@
   color:  #01273A !important;
   border: 2px solid  #01273A !important;
 }
+
+.p-sobre{
+   line-height: 1.75em !important;
+   font-weight: 300;
+}
+.title{
+  font-weight: bold;
+  font-size: 1.3em !important;
+}
+
+.fa-bars{
+  color:  #696969 !important;
+}
+
+.img-fluid-sobre{
+  width: 100%;
+}
+@media screen and (max-width: 980px) {
+    .img-fluid-sobre{
+        width: 40%;
+    }
+    .img-div-sobre{
+      margin-bottom: 50px;
+    }
+    .div-card{
+      margin: 30px;
+    }
+  
+}
+
+@media screen and (max-width: 600px) {
+    .img-fluid-sobre{
+        width: 60%;
+    }
+    .img-div-sobre{
+      margin-bottom: 50px;
+    }
+     .div-card{
+      margin: 30px;
+    }
+  
+}
+
+

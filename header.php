@@ -42,7 +42,7 @@
     <div class="container"> 
       <a class="navbar-brand" href="<?php bloginfo('url'); ?>"><img class="logo-nav" src="<?php bloginfo('template_url');?>/assets/img/logomarca-png.png" alt=""></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <i class="fas fa-2x fa-bars" aria-hidden="true"></i>
       </button>
       <div class="collapse navbar-collapse pt-4" id="navbarResponsive">
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
